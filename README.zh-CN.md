@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
 
+本文仅翻译文档；应用界面和语音对话仍使用英语。请使用下方英文示例试说，中文仅供理解。
+
 基于 Agora 和 Next.js 的服务反馈调查语音 AI 演示。讨论支持体验、提供可选满意度评分，并说明可改进之处。
 
 **[在 Agora Recipes 探索更多语音 AI 演示 →](https://recipes.agora.io/)**
@@ -125,7 +127,7 @@ Next.js 签发浏览器 token，并在启动 Agora Agent 时提供场景指令�
 
 ### 应该谈些什么？
 
-描述问题是否解决、有效之处和可改进之处。例如：“问题解决了，但等了很久。”没有实际经历时，可以明确使用假设示例。
+描述问题是否解决、有效之处和可改进之处。例如：“My issue was resolved, but I had to wait a long time.”（意为“问题解决了，但等了很久。”）没有实际经历时，可以明确使用假设示例。
 
 ### 可以跳过评分或提前结束吗？
 

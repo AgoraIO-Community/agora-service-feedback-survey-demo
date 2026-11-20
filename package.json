@@ -1,6 +1,6 @@
 {
   "name": "agora-service-feedback-survey-demo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Turn a short post-support conversation into confirmed, structured feedback.",
   "private": true,
   "engines": {
